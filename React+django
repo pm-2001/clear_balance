@@ -8,4 +8,11 @@
 	1.5 add drf and cors-headers to installed apps
 	1.6 whitelist react port
 	1.7 create serializers
-	1.8
+	1.8 create views
+	1.9 create routers in project urls
+	
+2. Now create frontend
+	2.1 create project
+	2.2 install reactstrap and bootstrap (to use them)
+	
+	
