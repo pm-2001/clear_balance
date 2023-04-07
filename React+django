@@ -1,0 +1,11 @@
+##React and django project
+#steps
+1. Start with backend
+	1.1 Start project
+	1.2 Create app
+	1.3 Create models
+	1.4 install djangorestframework and django-cors-headers
+	1.5 add drf and cors-headers to installed apps
+	1.6 whitelist react port
+	1.7 create serializers
+	1.8
